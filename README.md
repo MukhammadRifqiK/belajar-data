@@ -54,7 +54,7 @@ Dataset yang digunakan merupakan **synthetic dataset** yang dibuat sendiri untuk
 
 > **Disclaimer**
 >
-> Dataset ini merupakan data simulasi dan **bukan** berasal dari data internal maupun data asli Nestlé.
+> Dataset ini merupakan data yang dibuat sendiri dan **bukan** berasal dari data publik maupun data asli Nestlé.
 
 ---
 
