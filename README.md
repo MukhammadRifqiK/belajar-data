@@ -118,6 +118,20 @@ Dashboard terdiri dari beberapa visual utama:
 
 ---
 
+## 🧠 Kompetensi
+
+Melalui project ini, saya mengimplementasikan beberapa kompetensi berikut:
+
+- Data Cleaning
+- Data Transformation
+- Data Visualization
+- Dashboard Development
+- Business Analysis
+- KPI Monitoring
+- Storytelling with Data
+- Business Insight & Recommendation
+
+---
 ## 📁 Struktur Repository
 
 ```
