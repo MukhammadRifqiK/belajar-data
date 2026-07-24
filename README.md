@@ -121,7 +121,19 @@ Dashboard terdiri dari beberapa visual utama:
 ## 📁 Struktur Repository
 
 ```
-
+📂 nestle-sales-dashboard-excel
+│
+├── 📄 README.md
+│
+├── 📂 Dataset
+│    └──📈 Dummy_Dataset_Nestlé.xlsx  
+│
+├── 📂 Dashboard
+│    └──📊 Nestlé_Sales_Dashboard.xlsx
+│
+├── 📂 Images
+│    └──🖼 Nestlé-Sales-Dashboard.png
+```
 
 ---
 
@@ -129,7 +141,7 @@ Dashboard terdiri dari beberapa visual utama:
 
 Jika memiliki masukan atau ingin berdiskusi mengenai project ini, silakan hubungi saya melalui:
 
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/mukhammadrifqikhawari
 - Gmail: khawaririfqi@gmail.com
 
 ---
