@@ -69,7 +69,7 @@ Dataset yang digunakan merupakan **synthetic dataset** yang dibuat sendiri untuk
 
 ## 📌 Dashboard Preview
 
-![Dashboard](Images/Nestl%C3%A9%20Sales%20Dashboard.png)
+![Nestlé Sales Dashboard](Images/Nestl%C3%A9-Sales-Dashboard.png)
 
 ---
 
@@ -97,7 +97,7 @@ Dashboard terdiri dari beberapa visual utama:
 
 ---
 
-## 💡 Insight Utama
+## 💡 Temuan Insight
 
 - Revenue relatif stabil selama Periode Juli - Desember 2025 dan mencapai nilai tertinggi pada bulan Desember.
 - PT Hero menjadi distributor dengan kontribusi revenue terbesar.
@@ -121,26 +121,7 @@ Dashboard terdiri dari beberapa visual utama:
 ## 📁 Struktur Repository
 
 ```
-nestle-sales-dashboard-excel
-│
-├── data/
-│   ├── dataset.xlsx
-│   ├── dataset.csv
-│   └── data_dictionary.xlsx
-│
-├── dashboard/
-│   └── Nestle Sales Dashboard.xlsx
-│
-├── images/
-│   └── dashboard.png
-│
-├── docs/
-│   ├── business_requirements.md
-│   ├── insights.md
-│   └── dashboard_design.md
-│
-└── README.md
-```
+
 
 ---
 
@@ -148,8 +129,7 @@ nestle-sales-dashboard-excel
 
 Jika memiliki masukan atau ingin berdiskusi mengenai project ini, silakan hubungi saya melalui:
 
-- LinkedIn
-- GitHub
-- Email
+- LinkedIn: 
+- Gmail: khawaririfqi@gmail.com
 
 ---
