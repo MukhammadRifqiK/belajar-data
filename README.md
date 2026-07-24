@@ -1,6 +1,6 @@
-# 📊 Nestlé Indonesia Sales Dashboard (Microsoft Excel 2019)
+# 📊 Nestlé Sales Dashboard (Microsoft Excel 2019)
 
-Dashboard interaktif untuk menganalisis performa penjualan Nestlé Indonesia selama periode **Juli–Desember 2025** menggunakan **Microsoft Excel 2019**.
+Dashboard interaktif untuk menganalisis performa penjualan Nestlé selama periode **Juli–Desember 2025** menggunakan **Microsoft Excel 2019**.
 
 ---
 
@@ -10,7 +10,7 @@ Project ini dibuat sebagai simulasi analisis penjualan pada industri **Fast Movi
 
 ---
 
-## 🎯 Tujuan Proyek
+## 🎯 Tujuan Project
 
 Dashboard ini bertujuan untuk membantu menjawab beberapa pertanyaan bisnis berikut.
 
@@ -20,6 +20,24 @@ Dashboard ini bertujuan untuk membantu menjawab beberapa pertanyaan bisnis berik
 - Bagaimana kontribusi setiap channel pada masing-masing distributor?
 - Bagaimana kontribusi segmen pelanggan terhadap sales dan profit?
 - Insight apa yang dapat digunakan sebagai dasar pengambilan keputusan?
+
+---
+
+## 📖 Project Workflow
+
+| Step | Description |
+|------|-------------|
+| 📂 | Raw Data |
+| ⬇️ | |
+| 🧹 | Data Cleaning & Validation |
+| ⬇️ | |
+| 📊 | Data Processing *(Pivot Tables & KPI Calculations)* |
+| ⬇️ | |
+| 📈 | Interactive Dashboard |
+| ⬇️ | |
+| 💡 | Business Insights |
+| ⬇️ | |
+| 🎯 | Business Recommendations |
 
 ---
 
@@ -36,7 +54,7 @@ Dataset yang digunakan merupakan **synthetic dataset** yang dibuat sendiri untuk
 
 > **Disclaimer**
 >
-> Dataset ini merupakan data simulasi dan **bukan** berasal dari data internal maupun data asli Nestlé Indonesia.
+> Dataset ini merupakan data simulasi dan **bukan** berasal dari data internal maupun data asli Nestlé.
 
 ---
 
@@ -51,7 +69,7 @@ Dataset yang digunakan merupakan **synthetic dataset** yang dibuat sendiri untuk
 
 ## 📌 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](/images/)
 
 ---
 
