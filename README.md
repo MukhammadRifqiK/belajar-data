@@ -69,7 +69,7 @@ Dataset yang digunakan merupakan **synthetic dataset** yang dibuat sendiri untuk
 
 ## 📌 Dashboard Preview
 
-![Dashboard](/images/)
+![Dashboard](Images/Nestl%C3%A9%20Sales%20Dashboard.png)
 
 ---
 
